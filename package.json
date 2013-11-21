@@ -1,0 +1,23 @@
+{
+  "family": "seedit",
+  "name": "animateNumber",
+  "version": "0.0.1",
+  "description": "animate numbers effect",
+  "homepage": "https://github.com/airyland/V.animateNumber",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airyland/V.animateNumber.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": ["widget"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["animateNumber.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
